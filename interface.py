@@ -111,5 +111,6 @@ def buscar_usuario(self, login, senha):
                 sg.popup_no_titlebar("GoodBay!", font="18", text_color="blue")
                 self.janela.close()
 
+#Corrigir essa parte final
 usuario = interface()
 usuario.Iniciar()
