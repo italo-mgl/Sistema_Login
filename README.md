@@ -5,4 +5,4 @@
 <p>Sistema simples de login com autenticação com interface grafica</p>
 
 <h4>Como funciona ?</h4>
-<p>Sistema simples criado com au</p>
+<p>Sistema simples criado com a utilização</p>
